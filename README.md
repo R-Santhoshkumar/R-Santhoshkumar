@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm R. Santhosh Kumar</h1>
-<h3 align="center">Developer • Cybersecurity Enthusiast • CCNA Certified</h3>
+<h1 align="center">Hi 👋, I'm R. Santhoshkumar</h1>
+<h3 align="center">Cybersecurity Enthusiast • Linux • Cloud • Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Cybersecurity+Learner;Backend+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Web+Developer;Backend+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,3 +28,55 @@ Web Technologies: React.js, Node.js, Express.js, Tailwind CSS
 Database:         MySQL, MongoDB
 Security Tools:   Port Scanner, Injection Detection (Python CLI)
 DevOps & Tools:   Git, GitHub, Postman, Linux, Nginx, Docker (learning)
+```
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=san-0661&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=san-0661&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🔐 **Injection Detection CLI Tool**  
+  Python-based tool to detect SQLi, XSS, and command injection.  
+  Custom built for real-time CLI-based analysis.
+
+- 🌐 **Library Management System**  
+  React + Node.js + MySQL  
+  Secure JWT-based auth, book tracking, analytics dashboard with Chart.js
+
+- 📡 **Port Scanner Tool for AWS-Deployed Juice Shop**  
+  Scans open ports, identifies vulnerabilities  
+  Designed for OWASP Juice Shop hosted on EC2 Free Tier
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhoshkumar-r07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:santhoshkumar@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/san-0661">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center">
+  <b>"Build Secure, Build Smart, Build Open."</b>
+</p>
