@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-- 💻 I'm passionate about **Full Stack Development & Cybersecurity**
+- 💻 I'm passionate about **Cybersecurity & Full Stack Development**
 - 🔐 Built Python-based tools for **injection detection** and **port scanning**
 - 📊 Created modern **library management systems** with chart visualizations
 - 🎓 Certified in:
@@ -26,14 +26,10 @@
 Languages:        Python, JavaScript, SQL, PHP
 Web Technologies: React.js, Node.js, Express.js, Tailwind CSS
 Database:         MySQL, MongoDB
-Security Tools:   Port Scanner, Injection Detection (Python CLI)
+Security Tools:   Nmap, Burp suite,zap Proxy, Autopsy, Wireshark, Setoolkit, Hydra,  Port Scanner, Injection Detection (Python CLI)
 DevOps & Tools:   Git, GitHub, Postman, Linux, Nginx, Docker (learning)
 ```
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=san-0661&theme=tokyonight" alt="streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=san-0661&show_icons=true&theme=tokyonight" alt="stats" />
@@ -63,10 +59,10 @@ DevOps & Tools:   Git, GitHub, Postman, Linux, Nginx, Docker (learning)
   <a href="https://www.linkedin.com/in/santhoshkumar-r07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:santhoshkumar@example.com">
+  <a href="mailto:dr.r.santhoshkumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/san-0661">
+  <a href="https://github.com/R-Santhoshkumar">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
 </p>
