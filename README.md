@@ -16,6 +16,7 @@
   - 🧠 **CCNAv7: Introduction to Networks**
   - 🔁 **Switching, Routing, and Wireless Essentials**
   - 🛡️ **Enterprise Networking, Security & Automation**
+  - 📜 **Google Cybersecurity Certificate (Google Career Certificates via Coursera)**
 - 🌐 Built and deployed web servers using **Linux, Apache, NGINX**
 
 ---
@@ -32,7 +33,7 @@ DevOps & Tools:   Git, GitHub, Postman, Linux, Nginx, Docker (learning)
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=san-0661&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R-Santhoshkumar&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 ---
