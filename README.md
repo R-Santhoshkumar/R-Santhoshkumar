@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast • Linux • Cloud • Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Web+Developer;Backend+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Developer;" alt="Typing SVG" />
 </p>
 
 ---
