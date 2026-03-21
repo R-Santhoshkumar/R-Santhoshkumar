@@ -35,11 +35,17 @@ cybertron@kali:~$ cat about_me.txt
   </a>
 </p>
 
-| Category | Arsenal |
+```| Category | Arsenal |
 | :--- | :--- |
-| **💀 Offensive / Defensive** | `Metasploit`, `Nessus`, `Nmap`, `Wireshark`, `Snort`, `Burp Suite`, `Zap Proxy`, `Autopsy` |
-| **☁️ Cloud & Infrastructure**| `Azure (VNet, Bastion, NSG)`, `AWS (EC2 Security)`, `Load Balancing` |
-| **🌐 Network Architecture** | `Cisco Packet Tracer`, `OSPF`, `NAT/PAT`, `ACLs`, `DHCP`, `DNS` |
+```
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Offensive Security** | `Metasploit`, `Nmap`, `Burp Suite`, `VAPT`, `SQLi/XSS/RCE` |
+| **Defensive Security** | `Wireshark`, `Snort IDS`, `Nessus`, `SIEM`, `Firewall Config` |
+| **Cloud Security** | `Azure (VNet, Bastion, NSG)`, `AWS (EC2, VPC, IAM)` |
+| **Digital Forensics** | `Autopsy`, `Hash Validation`, `Disk Imaging`, `Incident Response` |
+| **Networking** | `Cisco CCNA`, `OSPF`, `NAT/PAT`, `ACLs`, `Segmentation` |
+| **Systems & Code** | `Linux (Kali, RHEL, Ubuntu)`, `Python`, `Bash`, `SQL` |
 
 ---
 
