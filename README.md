@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=200&section=header&text=R.%20Santhoshkumar&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20|%20Cloud%20|%20Forensics&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=200&section=header&text=Santhoshkumar%20R&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20|%20Cloud%20&descAlignY=65&descAlign=50" />
 </div>
 
 <h2 align="center">
@@ -95,9 +95,11 @@ Architected hardened enterprise networks in simulated and cloud environments.
 ### 📊 `htop` (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Santhoshkumar&show_icons=true&theme=hacker&title_color=00ff00&text_color=a0a0a0&icon_color=00ff00&bg_color=000000&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Santhoshkumar&layout=compact&theme=hacker&title_color=00ff00&text_color=a0a0a0&bg_color=000000&hide_border=true&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R-Santhoshkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Santhoshkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
 </p>
+
+
 
 ---
 
