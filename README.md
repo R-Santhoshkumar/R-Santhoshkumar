@@ -35,10 +35,8 @@ cybertron@kali:~$ cat about_me.txt
   </a>
 </p>
 
-```| Category | Arsenal |
-| :--- | :--- |
-```
-| Domain | Technologies & Tools |
+
+| Category | Arsenal |
 | :--- | :--- |
 | **Offensive Security** | `Metasploit`, `Nmap`, `Burp Suite`, `VAPT`, `SQLi/XSS/RCE` |
 | **Defensive Security** | `Wireshark`, `Snort IDS`, `Nessus`, `SIEM`, `Firewall Config` |
