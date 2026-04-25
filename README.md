@@ -96,12 +96,22 @@ Architected hardened enterprise networks in simulated and cloud environments.
 
 ---
 
-### 📊 `htop` (GitHub Stats)
+## 📊 `htop` (GitHub Stats)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R-Santhoshkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Santhoshkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
-</p>
+</p> -->
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Santhoshkumar&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R-Santhoshkumar&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Santhoshkumar&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 
 
