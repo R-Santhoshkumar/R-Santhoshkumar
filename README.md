@@ -96,7 +96,7 @@ Architected hardened enterprise networks in simulated and cloud environments.
 
 ---
 
-## 📊 `htop` (GitHub Stats)
+### 📊 `htop` (GitHub Stats)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R-Santhoshkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats" />
